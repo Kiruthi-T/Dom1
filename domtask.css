@@ -1,0 +1,11 @@
+.reddiv{
+    border: 1px solid red;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.green{
+    border: 1px solid green;
+    padding: 5px;
+}
